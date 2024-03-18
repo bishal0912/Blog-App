@@ -1,0 +1,62 @@
+.back-button{
+    height: 50px;
+    width: 130px;
+    color: white;
+    font-size: 20px;
+    background-color: #48A300;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.post-buttons{
+    display: flex;
+    justify-content: end;
+}
+
+.post-delete{
+    height: 50px;
+    width: 130px;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(220, 0, 0);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.post-edit{
+    height: 50px;
+    width: 130px;
+    color: white;
+    font-size: 20px;
+    background-color: #48A300;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.post-title-container{
+    overflow-wrap: break-word;
+}
+
+.post-title{
+    text-align: center;
+    font-size: 40px;
+    color: #483514;
+    background-color: #e5ab46;
+    padding: 10px;
+}
+
+.delete-error{
+    color: red;
+}
+
+.post-content p{
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: underline;
+    color: blue;
+} 

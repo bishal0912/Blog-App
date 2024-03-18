@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(234, 234, 234, 0.6);
+}
+
+.registration-container{
+    background-color: #fbfbfb;
+    margin: auto;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+    box-shadow: 0 0 8px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+
+.registration-heading{
+    color: #61481c;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.registration-input{
+    color: #35270f;
+    width: 250px;
+    margin: 10px 0;
+    padding: 8px ;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #858585;
+}
+
+.registration-button{
+    width: 270px;
+    margin: 10px 0;
+    padding: 8px ;
+    border: none;
+    background-color: #48A300;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.registration-login-button{
+    color: blue;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: underline;
+}

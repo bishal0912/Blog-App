@@ -1,0 +1,26 @@
+.about-back-button{
+    height: 50px;
+    width: 130px;
+    color: white;
+    font-size: 20px;
+    background-color: #48A300;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+.about-heading{
+    color: #61481c;
+    font-size: 48px;
+    text-align: center;
+}
+
+.about-video-player{
+    margin: 30px auto;
+}
+
+.made-with{
+    text-align: center;
+    margin-top: 50px;
+}
