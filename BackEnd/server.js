@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(cors());
 
 //mongodb
-const mongoURI = "mongodb+srv://sagarnil:U8imicapyp@cluster70523.vo4x63x.mongodb.net/userdata";
+const mongoURI = "mongodb://localhost:27017";
 mongoose.connect(mongoURI);
 
 //User Schema
